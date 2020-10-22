@@ -1,0 +1,8 @@
+name = 'Pradiptya kahf'
+title = 'THIRD YEAR CSE UNDERGRADUATE - DATA SCIENCE ENTHUSIAST'
+skills = ['Data analys', 'Web Development', 'Project manager']
+print(name)
+print(title)
+print('Skills:')
+for i in skills:
+  print(i)
